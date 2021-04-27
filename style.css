@@ -59,7 +59,7 @@ a:hover {
 }
 
 .img_main {
-    margin: 10% auto 10%;
+    margin: 10% auto 1%;
     width: 75%;
 }
 
@@ -79,7 +79,7 @@ a:hover {
     border-radius: 0px !important;
 }
 
-.h2port a:hover {
+a:hover.h2port {
     background: rgba(0, 0, 0, 0.9);
 }
 
@@ -101,4 +101,8 @@ a:hover {
     display: block;
     word-wrap: break-word;
     text-align: center;
+}
+
+a:hover.h1port {
+    background: rgba(0, 0, 0, 0.9);
 }
