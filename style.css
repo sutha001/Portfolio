@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-bottom: 2% !important;
+}
+
+header {
+    width: 30%;
+    margin: 5% auto 0px;
+    text-align: center;
+    padding: 20px;
+}
+
+.centerall {
+    max-width: 90%;
+    margin: 0 auto;
+    border: rgba(0, 0, 0, 0.7) solid 10px;
+    border-radius: 1%;
+}
+
+.description {
+    width: 50%;
+    margin: 1% auto 0%;
+    padding: 1%;
+    display: block;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+.description_personal {
+    text-align: left;
+}
+
+h1 {
+    margin: 10% auto 10%;
+    text-align: center;
+}
+
+a {
+    color: black !important;
+    font-weight: 100;
+    letter-spacing: 5px;
+    text-decoration: none;
+    padding: 6px 5px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    transition: all 0.5s;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin: 1% auto 1%;
+}
+
+a:hover {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.img_main {
+    margin: 10% auto 10%;
+    width: 75%;
+}
+
+.h1port {
+    background: rgba(0, 0, 0, 0.9);
+    color: white !important;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 0px !important;
+}
+
+.h2port {
+    background: rgba(0, 0, 0, 0.9);
+    color: white !important;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 0px !important;
+}
+
+.h2port a:hover {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.headmenu {
+    font-size: 5vh;
+}
+
+.img_munu_web {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.description_web {
+    width: 90%;
+    margin: 1% auto 0%;
+    padding: 1%;
+    display: block;
+    word-wrap: break-word;
+    text-align: center;
+}
